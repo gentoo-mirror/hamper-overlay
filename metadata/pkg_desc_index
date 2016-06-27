@@ -4,6 +4,6 @@ app-crypt/veracrypt 1.16 1.17: VeraCrypt is a free disk encryption software base
 dev-db/influxdb 0.12.2: Scalable datastore for metrics, events, and real-time analytics
 dev-libs/libaerospike 4.0.3 9999: Aerospike C Client
 net-im/qutim 9999 9999-r1: Qt4-based multi-protocol instant messenger
-net-im/telegram 0.9.51: Unofficial telegram protocol client
+net-im/telegram 0.9.56: Unofficial telegram protocol client
 net-libs/jreen 9999: Qt XMPP library
 net-misc/gogoc 1.2-r4: Client to connect to a tunnel broker using the TSP protocol (freenet6 for example)
