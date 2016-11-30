@@ -7,3 +7,4 @@ net-im/qutim 9999 9999-r1: Qt4-based multi-protocol instant messenger
 net-im/telegram 0.10.19: Unofficial telegram protocol client
 net-libs/jreen 9999: Qt XMPP library
 net-misc/gogoc 1.2-r4: Client to connect to a tunnel broker using the TSP protocol (freenet6 for example)
+sci-misc/vw 9999: Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
