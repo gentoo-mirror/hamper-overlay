@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=Epson printer utility
+EAPI=5
+HOMEPAGE=http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RESTRICT=mirror
+SLOT=0
+SRC_URI=amd64? ( https://download3.ebz.epson.net/dsc/f/03/00/04/17/55/056ce199385983ae651da49a4d16a3fc63b8bef7/epson-printer-utility_1.0.0-1lsb3.2_amd64.deb ) x86? ( https://download3.ebz.epson.net/dsc/f/03/00/04/17/55/e950279db96fb89c9b38244aec00b7536a6809c8/epson-printer-utility_1.0.0-1lsb3.2_i386.deb )
+_eclass_exported_funcs=src_unpack:- src_install:-
+_md5_=55ef8fd8f361f7186768217ab025b61b
