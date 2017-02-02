@@ -2,7 +2,6 @@ app-crypt/asedriveiiie-usb 3.7-r1: ASEDriveIIIe USB Card Reader
 app-crypt/ifcplugin 9999: Plugin for gosuslugi.ru auth
 app-crypt/veracrypt 1.16 1.17 1.18a 1.19: VeraCrypt is a free disk encryption software based on TrueCrypt
 dev-db/influxdb 0.12.2: Scalable datastore for metrics, events, and real-time analytics
-dev-lang/go 1.7.5: A concurrent garbage collected and typesafe programming language
 dev-libs/libaerospike 4.0.3 9999: Aerospike C Client
 media-fonts/firacode 1.204: Monospaced font with programming ligatures
 net-im/qutim 9999 9999-r1: Qt4-based multi-protocol instant messenger
