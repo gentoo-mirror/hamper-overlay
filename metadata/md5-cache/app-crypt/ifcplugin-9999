@@ -8,5 +8,4 @@ RDEPEND=sys-apps/pcsc-lite
 RESTRICT=strip
 SLOT=0
 SRC_URI=amd64? ( https://esia.gosuslugi.ru/sia-web/htdocs/plugin/IFCPlugin-x86_64.deb ) x86? ( https://esia.gosuslugi.ru/sia-web/htdocs/plugin/IFCPlugin-i386.deb )
-_eclass_exported_funcs=src_unpack:- src_install:-
 _md5_=e2048f4b467657d851bf97df798159a9
