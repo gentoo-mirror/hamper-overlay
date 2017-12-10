@@ -4,7 +4,7 @@ app-misc/tmux-mem-cpu-load 3.4.0: CPU, RAM memory, and load monitor for use with
 dev-libs/libaerospike 4.0.3 4.1.4 9999: Aerospike C Client
 media-fonts/firacode 1.204: Monospaced font with programming ligatures
 net-im/qutim 9999: Qt4-based multi-protocol instant messenger
-net-im/telegram 1.1.23-r1 1.1.27_alpha: Official desktop client for Telegram (binary package)
+net-im/telegram 1.1.23-r1 1.1.29_alpha: Official desktop client for Telegram (binary package)
 net-libs/jreen 9999: Qt XMPP library
 net-print/epson-inkjet-printer-l110 1.0.0: Printer Driver ESC/P Driver
 net-print/epson-printer-utility 1.0.0: Epson printer utility
