@@ -1,12 +1,1 @@
-app-crypt/asedriveiiie-usb 3.7-r1: ASEDriveIIIe USB Card Reader
-app-crypt/ifcplugin 9999: Plugin for gosuslugi.ru auth
 app-misc/tmux-mem-cpu-load 3.4.0: CPU, RAM memory, and load monitor for use with tmux
-dev-libs/libaerospike 4.0.3 4.1.4 9999: Aerospike C Client
-media-fonts/firacode 1.204: Monospaced font with programming ligatures
-net-im/qutim 9999: Qt4-based multi-protocol instant messenger
-net-im/telegram 1.1.29_alpha 1.2.1: Official desktop client for Telegram (binary package)
-net-libs/jreen 9999: Qt XMPP library
-net-print/epson-inkjet-printer-l110 1.0.0: Printer Driver ESC/P Driver
-net-print/epson-printer-utility 1.0.0: Epson printer utility
-sci-misc/vw 9999: Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
-sys-apps/flashrom 9999: Utility for reading, writing, erasing and verifying flash ROM chips
