@@ -1,2 +1,2 @@
 media-plugins/talentedhack-lv2 1.85: LV2 port of Autotalent pitch correction plugin
-net-p2p/syncthing-gtk 0.9.4.3 9999: GTK3 & python based GUI for Syncthing
+net-p2p/syncthing-gtk 0.9.4.3: GTK3 & python based GUI for Syncthing
