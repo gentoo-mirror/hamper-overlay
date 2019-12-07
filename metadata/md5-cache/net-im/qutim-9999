@@ -10,5 +10,5 @@ PROPERTIES=live
 RDEPEND=>=dev-qt/qtcore-5.5 >=dev-qt/qtnetwork-5.5 >=dev-qt/qtx11extras-5.5 >=dev-qt/qtwidgets-5.5 >=dev-qt/qtscript-5.5 >=dev-qt/qtquick1-5.5 >=dev-qt/qtxmlpatterns-5.5 >=dev-qt/qtwebsockets-5.5 >=dev-qt/qtwebchannel-5.5 >=dev-qt/qtconcurrent-5.5 >=dev-qt/qtmultimedia-5.5 sdl? ( media-libs/sdl-mixer ) indicator? ( dev-libs/libindicate-qt ) app-crypt/qca virtual/gsasl dev-libs/qtkeychain[qt5]
 RESTRICT=debug? ( strip )
 SLOT=0
-_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1
+_eclasses_=git-r3	6d22636df236df4cc8475f7b7668bdcd
 _md5_=169cb98fb8174116bce4f764d71cafa5
