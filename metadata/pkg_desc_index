@@ -5,7 +5,7 @@ media-plugins/talentedhack-lv2 1.85: LV2 port of Autotalent pitch correction plu
 net-im/mattermost-desktop-bin 4.6.1: Mattermost Desktop application
 net-im/qutim 9999: Qt4-based multi-protocol instant messenger
 net-im/telegram 2.1.20_beta 2.4.5: Official desktop client for Telegram (binary package)
-net-misc/postman-bin 7.34.0: Supercharge your API workflow
+net-misc/postman-bin 7.35.0: Supercharge your API workflow
 net-p2p/syncthing-gtk 0.9.4.4 9999: GTK3 & python based GUI for Syncthing
 net-print/epson-inkjet-printer-l110 1.0.0: Printer Driver ESC/P Driver
 net-print/epson-printer-utility 1.0.0: Epson printer utility
