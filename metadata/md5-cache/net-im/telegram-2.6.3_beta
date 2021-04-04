@@ -10,5 +10,5 @@ RDEPEND=dev-libs/glib:2 dev-libs/gobject-introspection >=media-libs/fontconfig-2
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://github.com/telegramdesktop/tdesktop/archive/v2.6.3.tar.gz -> tdesktop-2.6.3.tar.gz amd64? ( https://github.com/telegramdesktop/tdesktop/releases/download/v2.6.3/tsetup.2.6.3.beta.tar.xz )
-_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	optfeature	6a2add34e06e5a05d88471a33ccdd73e	xdg-utils	ff2ff954e6b17929574eee4efc5152ba	xdg	c7ba313ea1eaf266f95cc6235f7d6a07
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	optfeature	a3678a005063e7c50aed4e37d04197ab	xdg-utils	ff2ff954e6b17929574eee4efc5152ba	xdg	c7ba313ea1eaf266f95cc6235f7d6a07
 _md5_=0532cf672b5552f8afa943872a096bb6
