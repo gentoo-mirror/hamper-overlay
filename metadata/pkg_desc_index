@@ -4,7 +4,7 @@ dev-libs/libaerospike 4.0.3 4.1.4 4.3.15 4.6.3 4.6.18 9999: Aerospike C Client
 media-plugins/talentedhack-lv2 1.86: LV2 port of Autotalent pitch correction plugin
 net-im/mattermost-desktop-bin 4.7.2: Mattermost Desktop application
 net-im/qutim 9999: Qt4-based multi-protocol instant messenger
-net-im/telegram 3.0.4_beta 3.1.0: Official desktop client for Telegram (binary package)
+net-im/telegram 3.0.4_beta 3.1.1: Official desktop client for Telegram (binary package)
 net-misc/postman-bin 8.0.6: Supercharge your API workflow
 net-news/rssguard 3.9.0: Tiny RSS and Atom feed reader
 net-print/epson-inkjet-printer-l110 1.0.0: Printer Driver ESC/P Driver
