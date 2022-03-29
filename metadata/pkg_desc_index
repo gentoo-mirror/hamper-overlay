@@ -4,7 +4,7 @@ media-plugins/talentedhack-lv2 1.86 1.92: LV2 port of Autotalent pitch correctio
 net-im/mattermost-desktop-bin 5.0.4: Mattermost Desktop application
 net-im/qutim 9999: Qt4-based multi-protocol instant messenger
 net-im/telegram 3.5.6_beta 3.6.1: Official desktop client for Telegram (binary package)
-net-misc/postman-bin 9.9.3: Supercharge your API workflow
+net-misc/postman-bin 9.15.2: Supercharge your API workflow
 net-print/epson-inkjet-printer-l110 1.0.0: Printer Driver ESC/P Driver
 net-print/epson-printer-utility 1.0.0: Epson printer utility
 sci-misc/vw 9999: Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
