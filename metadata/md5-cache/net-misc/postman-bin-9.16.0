@@ -8,5 +8,5 @@ LICENSE=MPL-2.0
 RESTRICT=strip mirror
 SLOT=0
 SRC_URI=https://dl.pstmn.io/download/version/9.16.0/linux64 -> postman-bin-9.16.0.tar.gz
-_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28
+_eclasses_=desktop	22952d8f27cac191d75529d4c38e6bfa
 _md5_=9f05c6f1a30a2b5e33f2f9bd75ddd525
