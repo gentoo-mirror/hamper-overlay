@@ -8,6 +8,6 @@ KEYWORDS=-* ~amd64
 LICENSE=GPL-3-with-openssl-exception
 RDEPEND=sys-libs/glibc dev-libs/glib:2 >=media-libs/fontconfig-2.13 media-libs/freetype:2 virtual/opengl x11-libs/libX11 >=x11-libs/libxcb-1.10[xkb]
 SLOT=0
-SRC_URI=https://github.com/telegramdesktop/tdesktop/archive/v3.7.3.tar.gz -> tdesktop-3.7.3.tar.gz amd64? ( https://github.com/telegramdesktop/tdesktop/releases/download/v3.7.3/tsetup.3.7.3.tar.xz )
+SRC_URI=https://github.com/telegramdesktop/tdesktop/archive/v4.0.0.tar.gz -> tdesktop-4.0.0.tar.gz amd64? ( https://github.com/telegramdesktop/tdesktop/releases/download/v4.0.0/tsetup.4.0.0.tar.xz )
 _eclasses_=desktop	22952d8f27cac191d75529d4c38e6bfa	optfeature	d524f291c80f9d21ad80fe978e3ca760	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
 _md5_=081d4e5a74efe811e7f703f16308815e
