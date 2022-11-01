@@ -9,4 +9,4 @@ RDEPEND=app-accessibility/at-spi2-atk:2 app-accessibility/at-spi2-core:2[X] dev-
 SLOT=0
 SRC_URI=amd64? ( https://releases.mattermost.com/desktop/5.2.0/mattermost-desktop-5.2.0-linux-x64.tar.gz )
 _eclasses_=desktop	7eb20ad915a0a318176d51bc2508ff5c
-_md5_=26929901c29f9c336f64766691837c91
+_md5_=6638f89518e5e62af0ba01c847531861
