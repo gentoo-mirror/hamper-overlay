@@ -1,7 +1,8 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile install prepare unpack
-DEPEND=sci-libs/fftw:3.0 dev-libs/libxslt virtual/pkgconfig >=dev-vcs/git-1.8.2.1[curl]
+DEPEND=sci-libs/fftw:3.0 dev-libs/libxslt virtual/pkgconfig
 DESCRIPTION=LV2 port of Autotalent pitch correction plugin
-EAPI=6
+EAPI=8
 HOMEPAGE=https://github.com/jeremysalwen/TalentedHack
 INHERIT=toolchain-funcs git-r3
 KEYWORDS=amd64 x86
@@ -9,4 +10,4 @@ PROPERTIES=live
 RDEPEND=sci-libs/fftw:3.0
 SLOT=0
 _eclasses_=toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	git-r3	c57c50c922e121043788de0b40ada60a
-_md5_=681f6d7436abd8c0601f65b0e7cca5fa
+_md5_=31548e2e021fc50b742c32ca0eda8d74
