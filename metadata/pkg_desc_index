@@ -5,7 +5,5 @@ net-im/mattermost-desktop-bin 5.2.2: Mattermost Desktop application
 net-im/telegram 4.6.5 4.6.12_beta: Official desktop client for Telegram (binary package)
 net-misc/insomnia-bin 2022.7.5: REST API client, a postman alternative
 net-misc/postman-bin 10.0.1: Supercharge your API workflow
-net-print/epson-inkjet-printer-l110 1.0.0: Printer Driver ESC/P Driver
-net-print/epson-printer-utility 1.0.0: Epson printer utility
 sci-misc/vw 9999: Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 sys-power/amdctl 0.8: Set P-State voltages and clock speeds on recent AMD CPUs on Linux.
