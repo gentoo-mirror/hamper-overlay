@@ -4,6 +4,6 @@ media-plugins/talentedhack-lv2 1.92: LV2 port of Autotalent pitch correction plu
 net-im/mattermost-desktop-bin 5.2.2: Mattermost Desktop application
 net-im/telegram 4.6.12_beta 4.7.1: Official desktop client for Telegram (binary package)
 net-misc/insomnia-bin 2022.7.5: REST API client, a postman alternative
-net-misc/postman-bin 10.12.0: API platform for building and using APIs
+net-misc/postman-bin 10.12.0-r1: API platform for building and using APIs
 sci-misc/vw 9999: Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 sys-power/amdctl 0.8: Set P-State voltages and clock speeds on recent AMD CPUs on Linux.
