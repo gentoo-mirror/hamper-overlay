@@ -6,4 +6,4 @@ net-im/telegram 4.6.12_beta 4.8.0: Official desktop client for Telegram (binary 
 net-misc/insomnia-bin 2023.2.0: REST API client, a postman alternative
 net-misc/postman-bin 10.13.0: API platform for building and using APIs
 sci-misc/vw 9999: Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
-sys-power/amdctl 0.8: Set P-State voltages and clock speeds on recent AMD CPUs on Linux.
+sys-power/amdctl 0.11 9999: Set P-State voltages and clock speeds on recent AMD CPUs on Linux.

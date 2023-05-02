@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=Set P-State voltages and clock speeds on recent AMD CPUs on Linux.
+EAPI=8
+HOMEPAGE=https://github.com/kevinlekiller/amdctl
+INHERIT=git-r3
+LICENSE=GPL-3
+PROPERTIES=live
+RESTRICT=mirror
+SLOT=0
+_eclasses_=git-r3	27e13c09a4c7e4c78ac812f74727e676
+_md5_=1be42c5860401fe83ce910396a53a901
