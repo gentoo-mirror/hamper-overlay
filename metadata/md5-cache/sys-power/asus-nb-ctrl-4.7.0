@@ -1,0 +1,16 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=unpack
+DEPEND=dev-libs/libayatana-appindicator dev-lang/rust
+DESCRIPTION=A control daemon, CLI tools, and a collection of crates for interacting with ASUS ROG laptops
+EAPI=7
+HOMEPAGE=https://gitlab.com/asus-linux/asusctl
+INHERIT=git-r3
+KEYWORDS=~amd64 ~x86
+LICENSE=MPL-2.0
+PROPERTIES=live
+RDEPEND=dev-libs/libayatana-appindicator dev-lang/rust
+RESTRICT=network-sandbox
+SLOT=0
+SRC_URI=https://gitlab.com/asus-linux/asusctl
+_eclasses_=git-r3	2358a7b20091609e24bd3a83b3ac5991
+_md5_=6fbcbea715396efce56f670253a895d3
