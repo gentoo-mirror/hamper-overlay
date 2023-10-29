@@ -10,5 +10,5 @@ LICENSE=LGPL-3.0
 PROPERTIES=live
 RDEPEND=dev-qt/qtcore dev-qt/qtdeclarative dev-qt/qtgui dev-qt/qtnetwork dev-qt/qtwidgets dev-qt/qtx11extras
 SLOT=0
-_eclasses_=toolchain-funcs	fbbbc99d10168de2926e06da7169b8dc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	desktop	021728fdc1b03b36357dbc89489e0f0d	git-r3	2358a7b20091609e24bd3a83b3ac5991
+_eclasses_=toolchain-funcs	70ec42843fec87d20fd94c67e77cdbff	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	desktop	021728fdc1b03b36357dbc89489e0f0d	git-r3	2358a7b20091609e24bd3a83b3ac5991
 _md5_=36d8c8fb00e1af3366a5bc5e01829fc3
