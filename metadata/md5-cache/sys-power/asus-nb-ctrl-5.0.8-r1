@@ -11,6 +11,5 @@ PROPERTIES=live
 RDEPEND=dev-libs/libayatana-appindicator >=dev-lang/rust-1.75
 RESTRICT=network-sandbox
 SLOT=0
-SRC_URI=https://gitlab.com/asus-linux/asusctl
 _eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
-_md5_=87e1bd86ed971415f95b1d1188233ae7
+_md5_=49c0bc162b2de9d8ffdc6bf2843d1d79
