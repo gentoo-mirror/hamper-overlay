@@ -2,7 +2,7 @@ app-office/redtimer 9999: Redmine Time Tracker
 dev-libs/libaerospike 4.0.3 4.1.4 4.3.15 4.6.18 9999: Aerospike C Client
 media-plugins/talentedhack-lv2 1.92: LV2 port of Autotalent pitch correction plugin
 net-im/mattermost-desktop-bin 5.7.0: Mattermost Desktop application
-net-im/telegram 4.16.3_beta 4.16.8: Official desktop client for Telegram (binary package)
+net-im/telegram 4.16.8 4.16.9_beta: Official desktop client for Telegram (binary package)
 net-misc/insomnia-bin 8.6.1: REST API client, a postman alternative
 net-misc/postman-bin 10.17.0: API platform for building and using APIs
 sci-misc/vw 9999: Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
