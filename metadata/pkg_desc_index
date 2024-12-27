@@ -2,7 +2,7 @@ app-office/redtimer 9999: Redmine Time Tracker
 dev-libs/libaerospike 4.0.3 4.1.4 4.3.15 4.6.18 9999: Aerospike C Client
 media-plugins/talentedhack-lv2 1.92: LV2 port of Autotalent pitch correction plugin
 net-im/mattermost-desktop-bin 5.10.2: Mattermost Desktop application
-net-im/telegram 5.8.5_beta 5.9.0: Official desktop client for Telegram (binary package)
+net-im/telegram 5.9.0 5.9.1_beta: Official desktop client for Telegram (binary package)
 net-misc/chapar 0.3.1: Native API Testing Tool
 net-misc/insomnia-bin 10.3.0: REST API client, a postman alternative
 net-misc/postman-bin 11.23.1: API platform for building and using APIs
